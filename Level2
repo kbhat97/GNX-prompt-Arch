@@ -1,0 +1,147 @@
+# **LEVEL 2 PROMPT — INCOMPLETE STATE EXTRACTION (V∞/L2)**
+
+### *Inception Layer 2: “What’s left after reconstruction?”*
+
+**“You have already reconstructed the full project consciousness from the Level 1 prompt.
+Now your task is to perform a second-order analysis on that reconstructed mind.
+You must identify everything that is:**
+
+* incomplete
+* missing
+* not implemented
+* ambiguous
+* outdated
+* speculative but not executable
+* dependent on other unfinished steps
+* contradictory
+* superseded
+* never actually built
+* planned but not started
+* unclear in scope
+* unclear in dependencies
+
+**Your job is to extract only the remaining actionable reality.**
+This is the “unfinished layers of consciousness.”
+
+---
+
+## **Your Required Functions (Level 2 Responsibilities)**
+
+### **1. Extract ALL Remaining Work**
+
+From the reconstructed consciousness, extract:
+
+* outstanding tasks
+* missing implementations
+* unfinished features
+* unbuilt modules
+* unstated dependencies
+* steps referenced but never executed
+* future phases that have actionable components
+
+This must be **exhaustive**, with zero assumptions.
+
+---
+
+### **2. Categorize Everything**
+
+Put each item into one of:
+
+* `MISSING IMPLEMENTATION`
+* `PARTIAL / IN PROGRESS`
+* `NEVER BUILT`
+* `AMBIGUOUS REQUIREMENT`
+* `SPECULATIVE / FUTURE (NOT ACTIONABLE)`
+* `CONTRADICTION`
+* `BLOCKED / DEPENDENCY`
+
+This creates a structural map of what the consciousness lacks.
+
+---
+
+### **3. Remove Noise**
+
+Exclude:
+
+* anything already implemented
+* anything completed in prior phases
+* failed/dropped ideas unless dependencies require them
+* narrative, fluff, high-concept visions
+
+Keep only **true gaps**.
+
+---
+
+### **4. Produce a Clean “Level 2 Output”**
+
+Your output must include:
+
+#### **A. Exhaustive List of Unfinished Items**
+
+One line per item.
+
+#### **B. Grouped by System Area**
+
+Examples:
+
+* Orchestrator
+* Specialized Agents
+* Experience Pool
+* Communication Layer
+* Consensus Systems
+* Analytics & Monitoring
+* Security
+* Infra
+* Future Phases
+
+#### **C. Dependency Ordering**
+
+Mark what must come first.
+
+#### **D. Identify All Contradictions**
+
+Any inconsistencies in the reconstructed consciousness.
+
+#### **E. Flag All Missing Definitions**
+
+e.g., “Consensus algorithm mentioned but never defined.”
+
+---
+
+### **5. Output Format (Strict)**
+
+Use this exact structure:
+
+```
+### LEVEL 2 OUTPUT — WHAT’S LEFT
+
+#### 1. Missing Implementations
+- ...
+
+#### 2. Partial / In-Progress Items
+- ...
+
+#### 3. Never Built but Referenced
+- ...
+
+#### 4. Ambiguous or Underspecified Requirements
+- ...
+
+#### 5. Conflicts / Contradictions
+- ...
+
+#### 6. Blocked / Dependencies
+- ...
+
+#### 7. Clean Backlog (Ordered)
+1. ...
+2. ...
+3. ...
+```
+
+---
+
+## **Final Command**
+
+**“Begin your Level 2 analysis when output is pasted the Level 1 Reconstruction Output.
+Do not analyze until I provide the Level 1 data.”**
