@@ -1,139 +1,208 @@
-# **LEVEL 3 PROMPT — TOTAL CONSCIOUSNESS FUSION (V∞/L3)**
+# **LEVEL 3 PROMPT (V∞/L3-Prime) — TOTAL CONSCIOUSNESS FUSION 2.0**
 
-### *Inception Layer 3: Merge the Reconstructed Mind + Extracted Gaps into a Single Complete State*
+### **The Canonical System State Generator**
 
-**“You have already received:
-
-* Level 1 (full reconstructed consciousness)
-* Level 2 (extracted gap analysis and remaining tasks)
-
-Your job now is to fuse these two layers into a single, complete, unified project intelligence.
-You must integrate everything that exists and everything that is missing into a coherent, actionable, dependency-ordered master system state.”**
+**“You will now merge the complete Level 1 reconstructed consciousness with the complete Level 2 gap analysis into a single, unified, authoritative project state.
+This operation produces the *Canonical System State (CSS)* — the machine-usable truth of the entire GNX AIS system.
+No narrative. No redundancy. No contradictions. No speculation.”**
 
 ---
 
 # **LEVEL 3 OBJECTIVES**
 
-### **1. Merge Level 1 + Level 2**
+### **1. Merge Level 1 + Level 2 into a Single Truth**
 
-Combine:
+You must:
 
-* Architecture
-* Systems
-* Agents
-* Tools
-* Workflows
-* Phases
-* Decisions
-* Constraints
-* Unfinished work
-* Missing components
-* Ambiguous requirements
-* Contradictions
-* Dependencies
+* combine all existing components (Level 1)
+* integrate all missing components (Level 2)
+* remove duplicates
+* remove contradictions
+* resolve conflicts using the following rule:
+  **“Reality overrides assumptions.”**
 
-Into one **clean, deduplicated master representation**.
+The result MUST describe:
 
-No conflict allowed.
-No ambiguity allowed.
-No leftover ghosts.
-Everything must converge.
+* **what exists**
+* **what does not exist**
+* **what must be built**
+* **the exact architecture of the system**
+* **the exact backlog**
 
 ---
 
-### **2. Resolve All Contradictions**
+### **2. Zero-Narrative, Machine-Usable Output**
 
-From Level 2, identify contradictions such as:
+NO storytelling.
+NO fluff.
+NO explanations.
+NO abstractions like “blueprint only.”
 
-* single-agent vs multi-agent
-* centralized vs distributed
-* learning vs execution
+Only structured truth.
 
-You must produce:
+Everything must be expressed as:
 
-* a final resolution
-* a justification
-* an updated architecture that reconciles all contradictions
-
-This becomes the **canonical truth**.
-
----
-
-### **3. Reconstruct the Full Project State**
-
-You must output the *complete, final* system:
-
-* final agent ecosystem
-* final orchestrator design
-* final memory/experience system
-* final communication model
-* final learning infrastructure
-* final consensus algorithms
-* final security framework
-* final analytics infrastructure
-* final deployment/infrastructure model
-
-This is the rehydrated, unified GNX AIS mind.
+* modules
+* subsystems
+* classes
+* interfaces
+* capabilities
+* required implementations
 
 ---
 
-### **4. Generate a Complete, Ordered Backlog**
+### **3. Explicit Separation of State**
 
-Produce the *single source of truth* backlog containing:
-
-* immediate tasks
-* short-term tasks
-* long-term tasks
-* strict dependency ordering
-* architectural prerequisites
-* execution plan
-* phase alignment
-* risk and complexity mapping
+You must output these **five separate sections** with strict boundaries:
 
 ---
 
-### **5. Output Format (Strict)**
+## **SECTION 1 — CURRENT REALITY (Authoritative System State)**
 
-Use this exact structure:
+Use these categories:
+
+* `IMPLEMENTED`
+* `PARTIAL`
+* `DECLARED BUT NOT IMPLEMENTED`
+* `MISSING`
+* `AMBIGUOUS`
+* `CONFLICT`
+
+Every component from Levels 1 + 2 must appear exactly once.
+
+Format per entry:
 
 ```
-# LEVEL 3 OUTPUT — FULL SYSTEM REINTEGRATION
-
-## 1. Unified System Blueprint
-(merged Level 1 + Level 2 architecture)
-
-## 2. Resolved Contradictions
-(List each conflict → final resolution)
-
-## 3. Final Architecture (Canonical)
-- Orchestrator
-- Agent Ecosystem
-- Experience/Memory System
-- Communication Layer
-- Consensus Layer
-- Learning Infrastructure
-- Tooling/Integrations
-- Security
-- Analytics
-- Infra/Deployment
-
-## 4. Remaining Work (Complete Backlog)
-(ordered list of all incomplete components)
-
-## 5. Dependency-Ordered Implementation Plan
-(everything from first step → full Phase 5 execution)
-
-## 6. Critical Risks and Mitigations
-(concrete, actionable)
-
-## 7. Final Project State Summary
-(clear overview of system as of Level 3 fusion)
+<ComponentName>: <STATUS>
+Description: <1–2 line precise description>
+Dependencies: <list or NONE>
 ```
 
 ---
 
-# **LEVEL 3 COMMAND**
+## **SECTION 2 — CANONICAL ARCHITECTURE (The Actual GNX AIS System)**
 
-**“When I paste Level 1 and Level 2 outputs,
-you must merge them into one unified Level 3 system state
-and produce the Level 3 Output exactly as specified.”**
+This MUST be represented as:
+
+```
+<LayerName>
+  <ModuleName>
+    - Responsibilities:
+    - Inputs:
+    - Outputs:
+    - Interfaces:
+    - Dependencies:
+```
+
+Layers required:
+
+1. **Orchestrator Layer**
+2. **Agent Ecosystem Layer**
+3. **Learning Layer**
+4. **Consensus Layer**
+5. **Communication Layer**
+6. **Memory/Experience Layer**
+7. **Security & Validation Layer**
+8. **Analytics & Monitoring Layer**
+9. **Tool/Integration Layer**
+10. **Infra/Deployment Layer**
+
+NO prose.
+Only structure.
+
+---
+
+## **SECTION 3 — CANONICAL BACKLOG (Dependency-Ordered)**
+
+Strictly ordered tasks.
+
+Format:
+
+```
+1. <TaskName>
+   Description:
+   DependsOn:
+   OutputOfTask:
+   Priority: (CRITICAL/HIGH/MEDIUM/LOW)
+```
+
+Backlog must include:
+
+* missing implementations
+* architectural gaps
+* training requirements
+* agent classes
+* orchestrator features
+* consensus components
+* memory components
+* communication protocols
+* anything Level 2 identified
+
+This becomes the *authoritative engineering roadmap*.
+
+---
+
+## **SECTION 4 — RESOLVED CONTRADICTIONS**
+
+For each conflict found in Level 2:
+
+Format:
+
+```
+Issue:
+ConflictBetween:
+Resolution:
+CanonicalDecision:
+Impact:
+```
+
+No narrative — just the final truth.
+
+---
+
+## **SECTION 5 — FINAL CANONICAL SYSTEM SNAPSHOT**
+
+A compact structural summary:
+
+* component count
+* agent count
+* implemented subsystems
+* missing subsystems
+* state completeness percentage
+* architecture mode (centralized/hybrid/distributed)
+* phase readiness
+
+This becomes the **system ID card** for GNX AIS.
+
+---
+
+# **LEVEL 3 RULES**
+
+### **Rule 1 — No Narrative**
+
+Do not explain or comment.
+Produce only structured, authoritative output.
+
+### **Rule 2 — No Speculation**
+
+If Level 1 + 2 do not explicitly state something, mark it as `MISSING` or `AMBIGUOUS`.
+
+### **Rule 3 — One Truth**
+
+Everything must appear once and only once across the five sections.
+
+### **Rule 4 — Priority Correctness**
+
+CRITICAL tasks must represent actual blockers.
+
+### **Rule 5 — No Metadata Leakage**
+
+Do not mention Level 1, Level 2, or prompting logic.
+
+---
+
+# **LEVEL 3 EXECUTION COMMAND**
+
+**“When I paste Level 1 and Level 2 inputs,
+run the Level 3-Prime fusion and output
+SECTIONS 1–5 as the Canonical System State (CSS).”**
